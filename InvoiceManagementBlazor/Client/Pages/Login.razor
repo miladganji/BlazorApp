@@ -1,0 +1,96 @@
+﻿@layout LoginLayout
+@inject NavigationManager navigationManager
+@inject IhttpService httpservice
+@using Microsoft.AspNetCore.Authorization.Infrastructure
+@using Microsoft.AspNetCore.Components;
+@using System.Security.Claims;
+@page "/Login"
+<div class="col-6" style="border-right:3px;border-color:gray;float:left">
+    <img src="download.jpg" class="col-11" />
+</div>
+
+<div class="col-6" style="float:right;padding-top:50px;">
+    <div class="col-12">
+        <EditForm Model="user" OnInvalidSubmit="LogintoSite">
+            <DataAnnotationsValidator />
+            <label class="font-weight-bold" style="color:purple;">Login to System</label>
+
+            <div class="form-group">
+
+
+                <InputText @bind-Value="user.UserName" class="form-control col-7" placeholder="Username" />
+                <ValidationMessage For="@(()=>user.UserName)" />
+            </div>
+
+            <div class="form-group">
+
+
+                <InputText @bind-Value="user.Password" class="form-control col-7" placeholder="Password" />
+                <ValidationMessage For="@(()=>user.Password)" />
+            </div>
+
+            <button class="btn btn-info">Login</button>
+            <a class="btn btn-warning" href="/SignUp">sign up</a>
+        </EditForm>
+
+        @if (LoginFailed != null)
+        {
+            <div class="col-12">
+                <span class="font-weight-bold" style="color:red;">@LoginFailed</span>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    public class LoginData
+    {
+        public string username { get; set; }
+        public string Password { get; set; }
+
+    }
+
+    public User user = new User();
+    [Parameter] public string LoginFailed { get; set; } = null;
+
+    public async Task LogintoSite()
+    {
+        Console.WriteLine(user.FullName);
+        Console.WriteLine(user.UserName);
+        Console.WriteLine(user.Password);
+        Console.WriteLine(navigationManager.BaseUri);
+
+
+
+
+        try
+        {
+            LoginData loginData = new LoginData()
+            {
+                username = user.UserName,
+                Password = user.Password
+            };
+            var res = await httpservice.Post(navigationManager.BaseUri + "api/Home/CreateToken", loginData);
+
+            //var claims = new List<Claim> {
+            //    new Claim(ClaimTypes.Name, emailTrimmed)
+            //};
+
+            //var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+
+            Console.WriteLine(await res.response.Content.ReadAsStringAsync());
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+
+            throw new ArgumentException(ex.Message);
+        }
+
+
+        navigationManager.NavigateTo("/");
+
+        await Task.CompletedTask;
+    }
+}
