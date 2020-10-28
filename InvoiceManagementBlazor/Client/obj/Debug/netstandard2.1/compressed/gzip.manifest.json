@@ -1,6 +1,7 @@
 {
   "FilesToCompress": [
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wOqstW2F3J8NcfyDZy1eRuuRqQpU1S9hcHfML4WCTyg=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InvoiceManagementBlazor.Client.dll.gz"
@@ -8,175 +9,319 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\43qRRfk2lshXG3WhTPoltM9OlUD7mVNhQeDOD7eUKXs=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Client.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InvoiceManagementBlazor.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Buffers.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\netstandard.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\netstandard.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.Linq.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.Linq.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Core.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Core.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Memory.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Memory.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Memory.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mono.Security.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mono.Security.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Transactions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Transactions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Transactions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ServiceModel.Internals.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Composition.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.FileSystem.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Drawing.Common.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Drawing.Common.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.DataSetExtensions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.Extensions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qHdxgeB0nKE8odGQX_eGQwM_lg3dEkT2XpjVyoAB9bE=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
     },
@@ -193,15 +338,63 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CSZCxETb3NTmqBnwAmLa1D7SfVrcMyoA-hDwmfr3hzA=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Shared.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\J-GfcqFf2BpkQVcgGZas1mWBFHBQO9uKEvMXDx233tA=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hrf8CDA2LcKaXIdhxGiLo6m2LyYsGfbTdAFOYANMbAY=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Shared.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InvoiceManagementBlazor.Shared.dll.gz"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PHQUxnoQNAYLIjhXE3VDkhNbnbd32AC4EId8V4VVpGY=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cKAZb7xh11kZxyizcq_t1c8646D5ZoQNvEwOg3z_DX8=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6eWNJmObgA9g37KbjpD_lhTy18eoW5cLdTcnDGGojBU=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yU9oerhdAm6Yoam2kS94iC27c57STpnt-EdiIAzoyCI=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hf7wFxtJ2xZNE6pJ3599Gql8i51nsmxcX8O09gNN3SI=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.gz"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8Y81cOKaNJHZZvHu0TROikruBOenBHdE5WwI2BOkNNE=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
@@ -213,40 +406,73 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
@@ -258,10 +484,19 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DYckJPgMy7hO-0vUoL_BIejnADSoroVRkLZPa_8xBSQ=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash",
+<<<<<<< HEAD
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
@@ -273,6 +508,19 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9FQj_iJiUmXtADAuhaeKWDvkOnEndhEDmNsvGZ-5hRg=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Shared.pdb",
+=======
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eQteRXV2s_UHCE5B9HX1HvGVDu7b_VKVlhwlR33gvvg=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Client.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InvoiceManagementBlazor.Client.pdb.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-G0W-Zz3WHQ_TZKseBdncjH3V8yH4QShSPjI5a5Lzts=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\InvoiceManagementBlazor.Shared.pdb",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/InvoiceManagementBlazor.Shared.pdb.gz"
     },
     {
@@ -296,8 +544,13 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4HhNsQdS8SNusW_4znJPFV87N80iHL6Y15EC-My_HTE=.hash",
       "Source": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u5vg0wEKjrdQeAZkFZbu7N7L3hKEAmjzLdPFJt46xW0=.hash",
+      "Source": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
   ]

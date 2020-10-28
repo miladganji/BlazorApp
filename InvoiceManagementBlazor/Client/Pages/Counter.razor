@@ -1,16 +1,47 @@
-﻿@page "/counter"
+﻿@attribute  [Microsoft.AspNetCore.Authorization.Authorize]
+]
+@page "/counter"
 
 <h1>Counter</h1>
 
 <p>Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<AuthorizeView>
+    <Authorized>
+        <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+    </Authorized>
+
+    <Authorizing>
+        <span>
+            authorizing
+        </span>
+    </Authorizing>
+
+    <NotAuthorized>
+        Not Authorized
+    </NotAuthorized>
+</AuthorizeView>
+
+
 
 @code {
+
+
+    [CascadingParameter] private Task<AuthenticationState> AuthenticationState { get; set; }
     private int currentCount = 0;
 
-    private void IncrementCount()
+    private async Task IncrementCount()
+
     {
+
+        var authState = await AuthenticationState;
+        var user = authState.User;
+        if (user.Identity.IsAuthenticated)
+        {
+            Console.WriteLine(user.Identity.Name);
+        }
+
         currentCount++;
     }
 }

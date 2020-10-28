@@ -1,4 +1,9 @@
 ﻿<StaticWebAssets Version="1.0">
+<<<<<<< HEAD
   <ContentRoot BasePath="/" Path="E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Client\wwwroot\" />
   <ContentRoot BasePath="/" Path="E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
+=======
+  <ContentRoot BasePath="/" Path="D:\BlazorApp\InvoiceManagementBlazor\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\BlazorApp\InvoiceManagementBlazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
+>>>>>>> 8f5c83a90ca4f08f7c35721978d89a3956f1c76c
 </StaticWebAssets>
