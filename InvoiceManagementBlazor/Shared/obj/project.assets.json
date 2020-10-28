@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+      "projectUniqueName": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
       "projectName": "InvoiceManagementBlazor.Shared",
-      "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+      "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
       "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\obj\\",
+      "outputPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

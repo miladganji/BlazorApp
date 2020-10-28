@@ -37,7 +37,7 @@ namespace InvoiceManagementBlazor.Server.Controllers
            
             try
             {
-                Claim
+                
                 var res =await userRepository.CreateUser(user);
                 return Ok(res);
             }

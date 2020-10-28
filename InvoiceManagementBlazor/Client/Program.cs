@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using InvoiceManagementBlazor.Client.Services;
+using Microsoft.AspNetCore.Components.Authorization;
+using InvoiceManagementBlazor.Client.auth;
 
 namespace InvoiceManagementBlazor.Client
 {
@@ -21,6 +23,8 @@ namespace InvoiceManagementBlazor.Client
             builder.Services.AddTransient(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
             builder.Services.AddScoped<HttpClient>();
             builder.Services.AddScoped<IhttpService, httpService>();
+            builder.Services.AddAuthorizationCore();
+            builder.Services.AddScoped<AuthenticationStateProvider, DummyAuthenticationProvider>();
             await builder.Build().RunAsync();
         }
     }

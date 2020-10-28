@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {}
+    "D:\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
+    "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
+        "projectUniqueName": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
         "projectName": "InvoiceManagementBlazor.Client",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
+        "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
         "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\obj\\",
+        "outputPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
+              "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+                "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[3.2.0, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {
+    "D:\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
+        "projectUniqueName": "D:\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
         "projectName": "InvoiceManagementBlazor.Server",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
+        "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
         "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\obj\\",
+        "outputPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,11 +113,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj"
+              "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
+                "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj"
               },
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
+              "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+                "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
               }
             }
           }
@@ -168,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+    "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+        "projectUniqueName": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
         "projectName": "InvoiceManagementBlazor.Shared",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+        "projectPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
         "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\obj\\",
+        "outputPath": "D:\\BlazorApp\\InvoiceManagementBlazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
