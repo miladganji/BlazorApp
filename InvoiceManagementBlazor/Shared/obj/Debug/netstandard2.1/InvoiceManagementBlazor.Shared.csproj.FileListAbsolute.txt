@@ -7,3 +7,12 @@ C:\Users\m.ganjinejad\source\repos\InvoiceManagementBlazor\InvoiceManagementBlaz
 C:\Users\m.ganjinejad\source\repos\InvoiceManagementBlazor\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.csproj.CoreCompileInputs.cache
 C:\Users\m.ganjinejad\source\repos\InvoiceManagementBlazor\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.dll
 C:\Users\m.ganjinejad\source\repos\InvoiceManagementBlazor\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.pdb
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\bin\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.deps.json
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\bin\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.dll
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\bin\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.pdb
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.csprojAssemblyReference.cache
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.AssemblyInfoInputs.cache
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.AssemblyInfo.cs
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.csproj.CoreCompileInputs.cache
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.dll
+E:\blazorApp\BlazorApp\InvoiceManagementBlazor\Shared\obj\Debug\netstandard2.1\InvoiceManagementBlazor.Shared.pdb

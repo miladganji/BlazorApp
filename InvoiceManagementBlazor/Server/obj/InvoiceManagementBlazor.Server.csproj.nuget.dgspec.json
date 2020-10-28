@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {}
+    "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
+    "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
+        "projectUniqueName": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
         "projectName": "InvoiceManagementBlazor.Client",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
-        "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\obj\\",
+        "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj",
+        "packagesPath": "C:\\Users\\gigabyte\\.nuget\\packages\\",
+        "outputPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.ganjinejad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gigabyte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
+              "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+                "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
               }
             }
           }
@@ -79,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {
+    "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
+        "projectUniqueName": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
         "projectName": "InvoiceManagementBlazor.Server",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
-        "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Server\\obj\\",
+        "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Server\\InvoiceManagementBlazor.Server.csproj",
+        "packagesPath": "C:\\Users\\gigabyte\\.nuget\\packages\\",
+        "outputPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.ganjinejad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gigabyte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,11 +109,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj"
+              "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj": {
+                "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Client\\InvoiceManagementBlazor.Client.csproj"
               },
-              "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
+              "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+                "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj"
               }
             }
           }
@@ -164,24 +164,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
+    "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+        "projectUniqueName": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
         "projectName": "InvoiceManagementBlazor.Shared",
-        "projectPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
-        "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\obj\\",
+        "projectPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\gigabyte\\.nuget\\packages\\",
+        "outputPath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.ganjinejad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gigabyte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

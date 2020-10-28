@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7u5NINq9YVrwWOhzRD/J2eGQcvb7cen/uvtfcNKu7DUJ0zrE37AYsB1LuTIgH0zY+WRqOSskcnKaSBLW4Pxx3A==",
+  "dgSpecHash": "be/klPzEcPzxhUbRVN4b9fFd8n7M0EtUNcnBBO0ouad1117fX8pQwknharu7TGqePqj4LUpIaYTtqRGtpUSWvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.ganjinejad\\source\\repos\\InvoiceManagementBlazor\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
+  "projectFilePath": "E:\\blazorApp\\BlazorApp\\InvoiceManagementBlazor\\Shared\\InvoiceManagementBlazor.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\m.ganjinejad\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    "C:\\Users\\gigabyte\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

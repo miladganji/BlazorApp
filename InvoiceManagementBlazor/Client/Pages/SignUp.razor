@@ -1,5 +1,7 @@
 ﻿@layout LoginLayout
-@inject NavigationManager navigationManager
+@inject HttpClient Http
+@inject NavigationManager navigation
+@inject InvoiceManagementBlazor.Client.Services.IhttpService httpservice
 @page "/SignUp"
 <div class="col-6" style="border-right:3px;border-color:gray;float:left">
     <img src="download.jpg" class="col-11" />
@@ -7,7 +9,7 @@
 
 <div class="col-6" style="float:right;padding-top:50px;">
     <div class="col-12">
-        <EditForm Model="user" OnInvalidSubmit="LogintoSite">
+        <EditForm Model="user" OnInvalidSubmit="CreateUser">
             <DataAnnotationsValidator />
             <label class="font-weight-bold" style="color:purple;">Login to System</label>
             <div class="form-group">
@@ -30,7 +32,7 @@
                 <ValidationMessage For="@(()=>user.Password)" />
             </div>
 
-            <a class="btn btn-info" href="/Login">Login</a>
+            <a class="btn btn-info" href="/">Login</a>
             <button class="btn btn-warning">sign up</button>
         </EditForm>
 
@@ -47,8 +49,30 @@
     public User user = new User();
     [Parameter] public string LoginFailed { get; set; } = null;
 
-    public void LogintoSite()
+    public async Task CreateUser()
     {
-        navigationManager.NavigateTo("/");
+        Console.WriteLine(user.FullName);
+        Console.WriteLine(user.UserName);
+        Console.WriteLine(user.Password);
+        Console.WriteLine(navigation.BaseUri);
+
+
+
+
+        try
+        {
+
+            var res = await httpservice.Post(navigation.BaseUri + "api/Home/CreatePerson", user);
+        }
+        catch (Exception ex)
+        {
+
+            throw new ArgumentException(ex.Message);
+        }
+
+
+        navigation.NavigateTo("/");
+
+        await Task.CompletedTask;
     }
 }
